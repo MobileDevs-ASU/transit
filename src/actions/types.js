@@ -3,3 +3,7 @@ export const PASSWORD_CHANGED = 'password_changed';
 export const LOGIN_USER_SUCCESS = 'login_user_success';
 export const LOGIN_USER_FAILED = 'login_user_failed';
 export const LOGGING_IN = 'logging_in';
+export const COMPANY_TEXT_CHANGED = 'company_text_changed';
+export const POSITION_TEXT_CHANGED = 'position_text_changed';
+export const DESCRIPTION_TEXT_CHANGED = 'description_text_changed';
+export const REQUIREMENTS_TEXT_CHANGED = 'requirements_text_changed'

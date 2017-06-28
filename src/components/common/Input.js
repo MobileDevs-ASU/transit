@@ -6,7 +6,7 @@ import {
   Dimensions
 } from 'react-native';
 
-const INPUT_WIDTH = Dimensions.get('window').width * 0.8;
+const INPUT_WIDTH = Dimensions.get('window').width;
 
 const Input = (props) => {
   const {
